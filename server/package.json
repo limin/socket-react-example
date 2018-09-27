@@ -1,7 +1,7 @@
 {
-  "name": "vortex",
+  "name": "socket-react-example-server",
   "version": "0.1.0",
-  "description": "A data collector using socket.io",
+  "description": "A reatime communication example with socket and react.",
   "main": "index.js",
   "author": "Min Li",
   "private": true,
